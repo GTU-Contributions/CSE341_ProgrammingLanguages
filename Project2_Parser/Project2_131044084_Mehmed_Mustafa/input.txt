@@ -1,0 +1,1 @@
+(deffun sumup (x) (defvar myVar (* (+ 4 2) 5)))
