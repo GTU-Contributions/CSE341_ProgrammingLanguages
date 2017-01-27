@@ -9,9 +9,9 @@ Course Book: Concepts of Programming Languages 10th Ed. by Robert W. Sebesta
 
 ## Projects:
 
-Project 1: Lexer for the Coffee Programming Language
+* Project 1: Lexer for the Coffee Programming Language - Java Programming Language
 
-Project 2: Parser for the Coffee Programming Language
+* Project 2: Parser for the Coffee Programming Language - Java Programming Language
 
 ## Homeworks:
 
