@@ -3,7 +3,7 @@ Gebze Technical University
 
 Projects and HWs - Fall 2016
 
-Instructor: Yakup Genc
+Instructor: Dr. Yakup Genc
 
 Course Book: Concepts of Programming Languages 10th Ed. by Robert W. Sebesta
 
